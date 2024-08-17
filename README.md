@@ -20,8 +20,8 @@ In this small project, you'll build out your social link-sharing profile. You ca
  
 ### Links
 
-- Solution URL: [Repo](https://github.com/sakthivel155/qr-code-component-main)
-- Live Site URL: [Live Demo](https://sakthivel155.github.io/qr-code-component-main/)
+- Solution URL: [Repo](https://github.com/sakthivel155/social-links-profile-main)
+- Live Site URL: [Live Demo](https://sakthivel155.github.io/social-links-profile-main/)
 
 ## My process
 
