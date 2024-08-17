@@ -35,6 +35,9 @@ body{
     border-radius: 10px;
     background-color: var(--c-Grey-800);
 }
+.user-name{
+    font-size: 1.2rem;
+}
 .user-avator{
     display: block;
     margin:auto;
